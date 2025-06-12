@@ -26,3 +26,6 @@
 - 传感器型号：BME688（Bose Sensor）  
   Sensor Model: BME688 (Bose Sensor)  
 
+![演示动画](APPEX1.gif)
+
+
