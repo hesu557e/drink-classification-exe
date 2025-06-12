@@ -5,6 +5,9 @@
 |---------|---------------------|
 | 本应用基于Bose气体传感器（型号：BME688），用于智能识别饮品类型。支持识别红酒、茶和威士忌。界面直观，支持一键运行，无需安装Python环境，适合展示和教学实验场景，支持离线运行。 | This application is based on the Bose gas sensor (Model: BME688), designed for intelligent drink type recognition. It supports recognition of red wine, tea, and whisky. The UI is intuitive, supports one-click operation without Python installation, suitable for demo and teaching experiments, and works offline. |
 
+![演示截图](APPEX.png)
+
+
 ## 主要功能 | Main Features
 
 - 支持BME688气体传感器数据实时采集  
