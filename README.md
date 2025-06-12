@@ -1,6 +1,6 @@
 # Gas Sensor Drink Classification System
 
-| English Introduction |
+| Introduction |
 |---------------------|
 | This application is based on the Bose gas sensor (Model: BME688), designed for intelligent drink type recognition. It supports recognition of red wine, tea, and whisky. The UI is intuitive, supports one-click operation without Python installation, suitable for demo and teaching experiments, and works offline. |
 
